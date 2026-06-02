@@ -24,8 +24,8 @@ calculations relative to commonly used approximations.
 
 | File | Description |
 |------|-------------|
-| `init_naa_demo.R` | Supplementary Material 1 — Demonstration of analytical and iterative equilibrium solutions for an **age-structured** population across two regions (corresponds to deterministic calculations in the manuscript) |
-| `init_nas_demo.R` | Supplementary Material 1 — Demonstration of analytical and iterative equilibrium solutions for a **size-structured** population across two regions (corresponds to deterministic calculations in the manuscript) |
+| `init_naa_demo.R` | Demonstration of analytical and iterative equilibrium solutions for an **age-structured** population across two regions (corresponds to deterministic calculations in the manuscript) |
+| `init_nas_demo.R` | Demonstration of analytical and iterative equilibrium solutions for a **size-structured** population across two regions (corresponds to deterministic calculations in the manuscript) |
 | `spt_equil_pop_code_demo.R` | Additional standalone demonstration of the analytical equilibrium solution |
 | `spatial_plus_group_model_runs.R` | Code for fitting the Alaska sablefish multi-region stock assessment models under the four equilibrium formulations (no_move_all, no_move_plus, iter_bins, matrix) and running deterministic and stochastic population projections (corresponds to the Alaska sablefish case study in the manuscript) |
 | `model_results.RDS` | Saved model outputs from the Alaska sablefish case study |
